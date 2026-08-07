@@ -3,8 +3,11 @@
 Code, experiments and figures for the internship report *"Attacks on Explainable AI and their Mitigations"*
 
 **Author:** Shashwat Ahuja (M.Sc. Cyber Security, Sem 3, National Forensic Sciences University)
+
 **Guide:** Dr. Munesh Singh (Associate Professor, Dept. of Computer Science, NIT Delhi)
+
 **Lab:** Intelligent Systems and Hardware Security Lab, NIT Delhi
+
 **Duration:** 1st June 2026 to 24th July 2026 (Summer Internship Programme 2026)
 
 Full write-up: [`[NIT] Report.pdf`](./%5BNIT%5D%20Report.pdf)
